@@ -2,7 +2,7 @@ micro jscon-rpc connector for zabbix api requests
 =======================
 
 this connector support:
-- proxy usage
+- proxy usage (setup in basic jsonrpc class)
 
 #how use?
 
