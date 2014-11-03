@@ -1,3 +1,5 @@
+<?php
+
 class jsonrpc{    
     
     protected function connect($server, $query){
