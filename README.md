@@ -53,4 +53,4 @@ var_dump($zbx->call());
 
 - view all zabbix methods on https://www.zabbix.com/documentation/2.2/manual/api/reference
 
-* questions? - alex.lundgren@hotmail.com
+* questions? - alex@endem.su
